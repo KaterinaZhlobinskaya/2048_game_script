@@ -41,6 +41,30 @@
 
 - Гра доступна за посиланням: [2048 Game](https://katerinazhlobinskaya.github.io/2048_game_script/).
 
+## 🛠 Як запустити локально
+
+- **Клонуйте репозиторій**:
+     ```sh
+     git clone https://github.com/KaterinaZhlobinskaya/2048_game_script.git
+- **Відкрийте проєкт в редакторі коду** (приклад для VSC):
+     ```sh
+     code 2048_game_script
+- **Перевірте версію ноди** (14.14.35 або вище):
+  
+       node -v
+   - якщо версія не підходить до вимог, змініть її:
+       ```sh
+       nvm use XX.X.X
+   - за відсутності встановленої Node встановіть її згідно інструкцій за посиланням:
+       ```sh
+       https://nodejs.org/uk/download
+- **Встановіть залежності** (введіть наступну команду в терміналі редактора коду):
+     ```sh
+     npm install
+- **Запустіть проєкт**:
+     ```sh
+     npm start
+
 ## 🛠 Чого я навчилася
 
 - Роботи з DOM: динамічне створення та оновлення елементів сторінки.
@@ -92,6 +116,30 @@ In this project, I implemented the functional logic of the game **2048**, includ
 ## 🚀 How to view the project
 
 - The game is available at the link: [2048 Game](https://katerinazhlobinskaya.github.io/2048_game_script/).
+
+## 🛠 How to run locally
+
+- **Clone the repository**:
+     ```sh
+     git clone https://github.com/KaterinaZhlobinskaya/2048_game_script.git
+- **Open the project in the code editor** (example for VSC):
+     ```sh
+     code 2048_game_script
+- **Check the node version** (14.14.35 or higher):
+   
+         node -v
+   - if the version does not meet the requirements, change it:
+       ```sh
+       nvm use XX.X.X
+   - if Node is not installed, install it according to the instructions at the link:
+       ```sh
+       https://nodejs.org/uk/download
+- **Install dependencies** (enter the following command in the code editor terminal):
+     ```sh
+     npm install
+- **Run the project**:
+     ```sh
+     npm start
 
 ## 🛠 What I learned
 
